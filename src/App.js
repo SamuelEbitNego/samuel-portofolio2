@@ -89,7 +89,7 @@ function App() {
           <img src={samueelImage} alt="Samuel Ebit Nego" style={{ width: '200px', height: 'auto' }} />
             <h1>Samuel Ebit Nego</h1>
             <h2>Junior Web Front-End Developer</h2>
-            <a href="#contact" className="cta-button">Get in Touch</a>
+            <a href="#contact" className="cta-button">Contact</a>
           </div>
         </section>
 
@@ -155,7 +155,7 @@ function App() {
         </section>
 
         <section id="contact" className="contact">
-          <h2>Get in Touch</h2>
+          <h2>Contact</h2>
           <div className="contact-content">
           <form onSubmit={handleSubmit}>
             <input type="text" name="name" placeholder="Your Name" required />

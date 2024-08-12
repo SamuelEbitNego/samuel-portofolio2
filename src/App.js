@@ -111,13 +111,10 @@ function App() {
               <h3>Skills</h3>
               <ul>
                 <li>React</li>
-                <li>Node.js</li>
-                <li>JavaScript (ES6+)</li>
-                <li>TypeScript</li>
-                <li>GraphQL</li>
-                <li>MongoDB</li>
-                <li>AWS</li>
-                <li>Docker</li>
+                <li>Bootstrap</li>
+                <li>Codeigniter</li>
+                <li>MYSQL</li>
+                <li>Tailwindcss</li>
               </ul>
             </div>
           </div>

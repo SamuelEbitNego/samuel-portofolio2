@@ -97,14 +97,8 @@ function App() {
           <h2>About Me</h2>
           <div className="about-content">
             <div className="about-text">
-              <p class="p1"> I am Samuel Ebit Nego From Indonesian My last education was at SMK Bina Karya Mandiri in 2018, in 2019
-                    I worked as a computer operator for 2 years. In 2020 I joined the church organization at HKBP Pondok
-                    Kelapa in Multi Talenta, Multimedia, & Public Relations until 2024. Then I stopped working in 2021 and
-                    continued my studies at Bina Sarana Informatika University in September 2021. I have gained knowledge
-                    during my studies, such as in Web Programming using the Html, CSS, PHP programming languages using
-                    the codeigniter framework. I am currently studying in semester 6 and I hope to be better and more
-                    professional in programming.
-              </p>
+              <p class="p1"> I am Samuel Ebit Nego, 
+I am an undergraduate student at SMK Bina Karya, currently getting a bachelor's degree in Information Systems. I have gained various knowledge during my studies related to web development using HTML, CSS, PHP programming (including using the codeigniter framework). I create various mini projects in order for me to learn and gain experiences that are essential for real-world problem solving. I love coding and all things related to IT, especially front-end web development.              </p>
 
             </div>
             <div className="skills">

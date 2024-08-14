@@ -113,6 +113,7 @@ function App() {
                 <li>React</li>
                 <li>Bootstrap</li>
                 <li>Codeigniter</li>
+                <li>Laravel</li>
                 <li>MYSQL</li>
                 <li>Tailwindcss</li>
               </ul>

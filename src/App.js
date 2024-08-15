@@ -97,8 +97,7 @@ function App() {
           <h2>About Me</h2>
           <div className="about-content">
             <div className="about-text">
-              <p class="p1"> I am Samuel Ebit Nego, 
-I am an undergraduate student at UBSI (Bina Sarana Informatika), currently getting a bachelor's degree in Information Systems. I have gained various knowledge during my studies related to web development using HTML, CSS, PHP programming (including using the codeigniter framework). I create various mini projects in order for me to learn and gain experiences that are essential for real-world problem solving. I love coding and all things related to IT, especially front-end web development.              </p>
+              <p class="p1"> I am an undergraduate student at UBSI (Bina Sarana Informatika), currently getting a bachelor's degree in Information Systems. I have gained various knowledge during my studies related to web development using HTML, CSS, PHP programming (including using the codeigniter framework). I create various mini projects in order for me to learn and gain experiences that are essential for real-world problem solving. I love coding and all things related to IT, especially front-end web development.              </p>
 
             </div>
             <div className="skills">

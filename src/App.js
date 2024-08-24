@@ -14,6 +14,7 @@ import sertifikat3Image from './foto/sertifikat3.jpg';
 import sertifikatlinkinImage from './foto/sertifikatlinkin.jpg';
 import courseImage from './foto/course.jpg';
 import phpImage from './foto/php.jpg';
+import javascriptImage from './foto/javascript.jpg';
 
 
 const projects = [
@@ -32,7 +33,8 @@ const certificate = [
   { id: 4, title: 'CSS Course', foto: sertifikat3Image, source: 'https://drive.google.com/file/d/1PLNmLOhdiLfwB-eX3YeByqEFnl8D5bPi/view?usp=sharing' },
   { id: 5, title: 'Certificate Of Completion Creating a Responsive Web Design', foto: sertifikatlinkinImage, source: 'https://drive.google.com/file/d/1yDyuLjTjFE8BCYEC8BI3TN-PeWmZAO9q/view?usp=sharing' },
   { id: 6, title: 'Course Completion Certificate page', foto: courseImage, source: 'https://drive.google.com/file/d/1FgQ4vXjR2ZP1S2vAoLoYAd3sqhfSA67q/view?usp=sharing' },
-  { id: 7, title: 'PHP', foto: phpImage, source: './foto/php.jpg' },
+  { id: 7, title: 'PHP', foto: phpImage, source: 'https://drive.google.com/file/d/1uvjn9eYp8YN5Bq6vyEWTfQFh6QHaGbLG/view?usp=sharing' },
+  { id: 8, title: 'Javascript Basic', foto: javascriptImage, source: 'https://drive.google.com/file/d/1I6xAAgS2gJubt4Mca2LW_QTssqbqcpQl/view?usp=sharing' },
 ];
 
 const handleSubmit = (e) => {

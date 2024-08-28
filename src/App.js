@@ -92,7 +92,7 @@ function App() {
           <div className="hero-content">
           <img src={samueelImage} alt="Samuel Ebit Nego" style={{ width: '200px', height: 'auto' }} />
             <h1>Samuel Ebit Nego</h1>
-            <h2>Junior Web Front-End Developer</h2>
+            <h2>Junior Web Developer</h2>
             <a href="#contact" className="cta-button">Contact</a>
           </div>
         </section>

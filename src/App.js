@@ -15,7 +15,7 @@ import sertifikatlinkinImage from './foto/sertifikatlinkin.jpg';
 import courseImage from './foto/course.jpg';
 import phpImage from './foto/php.jpg';
 import javascriptImage from './foto/javascript.jpg';
-
+import cssImage from './foto/css.jpg';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate' },
@@ -35,6 +35,7 @@ const certificate = [
   { id: 6, title: 'Course Completion Certificate page', foto: courseImage, source: 'https://drive.google.com/file/d/1FgQ4vXjR2ZP1S2vAoLoYAd3sqhfSA67q/view?usp=sharing' },
   { id: 7, title: 'PHP', foto: phpImage, source: 'https://drive.google.com/file/d/1uvjn9eYp8YN5Bq6vyEWTfQFh6QHaGbLG/view?usp=sharing' },
   { id: 8, title: 'Javascript Basic', foto: javascriptImage, source: 'https://drive.google.com/file/d/1I6xAAgS2gJubt4Mca2LW_QTssqbqcpQl/view?usp=sharing' },
+  { id: 9, title: 'CSS Basic', foto: cssImage, source: 'https://drive.google.com/file/d/1esb4TxDOdc_QtxCWpHb3kKgJQQ-fKMPS/view?usp=sharing' },
 ];
 
 const handleSubmit = (e) => {

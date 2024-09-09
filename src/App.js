@@ -23,7 +23,7 @@ const projects = [
   { id: 2, title: 'Web Desain E-commerce Style', description: 'For Simple Desain Web E-commerce Style', foto: webdesainImage, sourceCode: 'https://github.com/SamuelEbitNego/tampilan-aplikasi.git', source: 'https://tampilan-aplikasi.vercel.app/' },
   { id: 3, title: 'Web Aplikasi Belanja Onshop', description: 'Web Application with 2 framework Bootstrap & Codeigniter 3', foto: onshopImage, sourceCode: 'https://github.com/SamuelEbitNego/onshopp' },
   { id: 4, title: 'Web Pembayaran Pasca Listrik', description: 'Web Application with 2 framework Bootstrap & Codeigniter 3', foto: listrikImage, sourceCode: 'https://github.com/SamuelEbitNego/listrik' },
-  { id: 5, title: 'Vigenchat', description: 'Intelligent chatbot using natural language processing', foto: VigenchatImage, sourceCode: 'https://github.com/SamuelEbitNego/vigenchat' },
+  { id: 5, title: 'Vigenchat', description: 'Intelligent chatbot using natural language processing', foto: VigenchatImage, sourceCode: 'https://github.com/SamuelEbitNego/vigenchat', source: 'https://preview.flutlab.io/samuel_ebitnego/vigenchat/' },
   { id: 6, title: 'Face Detection Simple', description: 'Face detection using simple algorithms', foto: faceImage, sourceCode: 'https://github.com/SamuelEbitNego/facedetection-simple' },
   { id: 7, title: 'Weather App', description: 'Using framework React', foto: weatherImage, sourceCode: 'https://github.com/SamuelEbitNego/weather-app.git', source: 'https://weather-app-silk-seven-93.vercel.app' },
 ];

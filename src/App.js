@@ -19,13 +19,13 @@ import cssImage from './foto/css.jpg';
 import weatherImage from './foto/weather.png';
 
 const projects = [
-  { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate' },
-  { id: 2, title: 'Web Desain E-commerce Style', description: 'For Simple Desain Web E-commerce Style', foto: webdesainImage, sourceCode: 'https://github.com/SamuelEbitNego/tampilan-aplikasi' },
+  { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate', source: 'https://vercel.com/portofolios-projects-f9084914/qrcodegenerate' },
+  { id: 2, title: 'Web Desain E-commerce Style', description: 'For Simple Desain Web E-commerce Style', foto: webdesainImage, sourceCode: 'https://github.com/SamuelEbitNego/tampilan-aplikasi', source: 'https://tampilan-aplikasi.vercel.app/' },
   { id: 3, title: 'Web Aplikasi Belanja Onshop', description: 'Web Application with 2 framework Bootstrap & Codeigniter 3', foto: onshopImage, sourceCode: 'https://github.com/SamuelEbitNego/onshopp' },
   { id: 4, title: 'Web Pembayaran Pasca Listrik', description: 'Web Application with 2 framework Bootstrap & Codeigniter 3', foto: listrikImage, sourceCode: 'https://github.com/SamuelEbitNego/listrik' },
   { id: 5, title: 'Vigenchat', description: 'Intelligent chatbot using natural language processing', foto: VigenchatImage, sourceCode: 'https://github.com/SamuelEbitNego/vigenchat' },
   { id: 6, title: 'Face Detection Simple', description: 'Face detection using simple algorithms', foto: faceImage, sourceCode: 'https://github.com/SamuelEbitNego/facedetection-simple' },
-  { id: 7, title: 'Weather App', description: 'Using framework React', foto: weatherImage, sourceCode: 'https://github.com/SamuelEbitNego/weather-app.git' },
+  { id: 7, title: 'Weather App', description: 'Using framework React', foto: weatherImage, sourceCode: 'https://github.com/SamuelEbitNego/weather-app.git', source: 'https://weather-app-silk-seven-93.vercel.app/' },
 ];
 
 const certificate = [
@@ -130,6 +130,8 @@ function App() {
                   <h3>{project.title}</h3>
                   <p>{project.description}</p>
                   <a href={project.sourceCode} className="btn" target="_blank" rel="noopener noreferrer">Source Code</a>
+                    <br>
+                  <a href={project.source} className="btn" target="_blank" rel="noopener noreferrer">Visit</a>
                 </div>
               </div>
             ))}

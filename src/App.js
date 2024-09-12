@@ -17,8 +17,8 @@ import phpImage from './foto/php.jpg';
 import javascriptImage from './foto/javascript.jpg';
 import cssImage from './foto/css.jpg';
 import weatherImage from './foto/weather.png';
-import htmlajaImage from './foto/htmlaja.jpg';
-import cssajaImage from './foto/cssaja.jpg';
+import htmlajaImage from './foto/htmlaja.JPG';
+import cssajaImage from './foto/cssaja.JPG';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate.git', source: 'https://qrcodegenerate-three.vercel.app/' },

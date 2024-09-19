@@ -20,6 +20,7 @@ import weatherImage from './foto/weather.png';
 import htmlajaImage from './foto/htmlaja.JPG';
 import cssajaImage from './foto/cssaja.JPG';
 import dasarImage from './foto/dasar.JPG';
+import jsImage from './foto/js.JPG';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate.git', source: 'https://qrcodegenerate-three.vercel.app/' },
@@ -43,7 +44,8 @@ const certificate = [
   { id: 9, title: 'CSS Basic', foto: cssImage, source: 'https://drive.google.com/file/d/1esb4TxDOdc_QtxCWpHb3kKgJQQ-fKMPS/view?usp=sharing' },
   { id: 10, title: 'HTML Certificate Of Completion', foto: htmlajaImage, source: 'https://drive.google.com/file/d/1pX7qo_JuTjdiAue-xQNDibRyr8DEUJ_0/view?usp=sharing' },
   { id: 11, title: 'CSS Certificate Of Completion', foto: cssajaImage, source: 'https://drive.google.com/file/d/1Ab7Sl3WEQ8vD4_9a9l0FVjnxqubpQtMH/view?usp=sharing' },
-  { id: 11, title: 'CSS Certificate Of Completion', foto: cssajaImage, source: 'https://drive.google.com/file/d/1d0scf_zo-EJZcnxZJJziGoomT7jd2kSs/view?usp=sharing' },
+  { id: 12, title: 'Basic Web Program', foto: dasarImage, source: 'https://drive.google.com/file/d/1JZJ_-UnlJ_Ce3VzPpBk37arikoQzvor9/view?usp=sharing' },
+  { id: 13, title: 'JavaScript Program Basic', foto: jsImage, source: 'https://drive.google.com/file/d/1JZJ_-UnlJ_Ce3VzPpBk37arikoQzvor9/view?usp=sharing' },
 ];
 
 const handleSubmit = (e) => {

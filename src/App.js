@@ -21,6 +21,7 @@ import htmlajaImage from './foto/htmlaja.JPG';
 import cssajaImage from './foto/cssaja.JPG';
 import dasarImage from './foto/dasar.JPG';
 import jsImage from './foto/js.JPG';
+import aiImage from './foto/ai.JPG';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate.git', source: 'https://qrcodegenerate-three.vercel.app/' },
@@ -46,6 +47,7 @@ const certificate = [
   { id: 11, title: 'CSS Certificate Of Completion', foto: cssajaImage, source: 'https://drive.google.com/file/d/1Ab7Sl3WEQ8vD4_9a9l0FVjnxqubpQtMH/view?usp=sharing' },
   { id: 12, title: 'Basic Web Program', foto: dasarImage, source: 'https://drive.google.com/file/d/1JZJ_-UnlJ_Ce3VzPpBk37arikoQzvor9/view?usp=sharing' },
   { id: 13, title: 'JavaScript Program Basic', foto: jsImage, source: 'https://drive.google.com/file/d/1JZJ_-UnlJ_Ce3VzPpBk37arikoQzvor9/view?usp=sharing' },
+  { id: 13, title: 'Belajar Dasar AI', foto: aiImage, source: 'https://drive.google.com/file/d/1eOxd42wMdO36PWgh-xgKbS3Qi8eklUu1/view?usp=sharing' },
 ];
 
 const handleSubmit = (e) => {

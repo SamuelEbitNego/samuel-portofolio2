@@ -22,7 +22,7 @@ import cssajaImage from './foto/cssaja.JPG';
 import dasarImage from './foto/dasar.JPG';
 import jsImage from './foto/js.JPG';
 import aiImage from './foto/ai.JPG';
-import note_app_lvl1Image './foto/note_app_lvl1.JPG';
+import note_app_lvl1Image from './foto/note_app_lvl1.JPG';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate.git', source: 'https://qrcodegenerate-three.vercel.app/' },

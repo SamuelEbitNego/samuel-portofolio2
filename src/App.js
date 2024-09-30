@@ -22,6 +22,7 @@ import cssajaImage from './foto/cssaja.JPG';
 import dasarImage from './foto/dasar.JPG';
 import jsImage from './foto/js.JPG';
 import aiImage from './foto/ai.JPG';
+import note_app_lvl1Image './foto/note_app_lvl1.JPG';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate.git', source: 'https://qrcodegenerate-three.vercel.app/' },
@@ -31,6 +32,7 @@ const projects = [
   { id: 5, title: 'Vigenchat', description: 'Intelligent chatbot using natural language processing', foto: VigenchatImage, sourceCode: 'https://github.com/SamuelEbitNego/vigenchat', source: 'https://preview.flutlab.io/samuel_ebitnego/vigenchat/' },
   { id: 6, title: 'Face Detection Simple', description: 'Face detection using simple algorithms', foto: faceImage, sourceCode: 'https://github.com/SamuelEbitNego/facedetection-simple' },
   { id: 7, title: 'Weather App', description: 'Using framework React', foto: weatherImage, sourceCode: 'https://github.com/SamuelEbitNego/weather-app.git', source: 'https://weather-app-silk-seven-93.vercel.app' },
+  { id: 8, title: 'Note-App Lvl 1', description: 'Using framework React', foto: note_app_lvl1Image, sourceCode: 'https://github.com/SamuelEbitNego/app-note.git', source: 'https://app-note-psi.vercel.app/' },
 ];
 
 const certificate = [
@@ -47,7 +49,7 @@ const certificate = [
   { id: 11, title: 'CSS Certificate Of Completion', foto: cssajaImage, source: 'https://drive.google.com/file/d/1Ab7Sl3WEQ8vD4_9a9l0FVjnxqubpQtMH/view?usp=sharing' },
   { id: 12, title: 'Basic Web Program', foto: dasarImage, source: 'https://drive.google.com/file/d/1JZJ_-UnlJ_Ce3VzPpBk37arikoQzvor9/view?usp=sharing' },
   { id: 13, title: 'JavaScript Program Basic', foto: jsImage, source: 'https://drive.google.com/file/d/1JZJ_-UnlJ_Ce3VzPpBk37arikoQzvor9/view?usp=sharing' },
-  { id: 13, title: 'Belajar Dasar AI', foto: aiImage, source: 'https://drive.google.com/file/d/1eOxd42wMdO36PWgh-xgKbS3Qi8eklUu1/view?usp=sharing' },
+  { id: 14, title: 'Belajar Dasar AI', foto: aiImage, source: 'https://drive.google.com/file/d/1eOxd42wMdO36PWgh-xgKbS3Qi8eklUu1/view?usp=sharing' },
 ];
 
 const handleSubmit = (e) => {

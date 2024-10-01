@@ -53,7 +53,6 @@ const certificate = [
   { id: 14, title: 'Belajar Dasar AI', foto: aiImage, source: 'https://drive.google.com/file/d/1eOxd42wMdO36PWgh-xgKbS3Qi8eklUu1/view?usp=sharing' },
   { id: 15, title: 'JavaScript', foto: jssImage, source: 'https://drive.google.com/file/d/1hPqIaHbAhdJINI8WZ5yhCE8u3zlRF0Qn/view?usp=sharing' },
 ];
-];
 
 const handleSubmit = (e) => {
   e.preventDefault();

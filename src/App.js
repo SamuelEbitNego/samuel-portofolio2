@@ -6,7 +6,7 @@ import onshopImage from './foto/onshop.png';
 import listrikImage from './foto/listrik.jpg';
 import VigenchatImage from './foto/vigenchat.png';
 import faceImage from './foto/face.jpg';
-import samuel1Image from './foto/samuel1.JPG';
+import samuel1Image from './foto/samuel1.png';
 import sertifikatImage from './foto/sertifikat.jpg';
 import sertifikat1Image from './foto/sertifikat1.jpg';
 import sertifikat2Image from './foto/sertifikat2.jpg';

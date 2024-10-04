@@ -6,7 +6,7 @@ import onshopImage from './foto/onshop.png';
 import listrikImage from './foto/listrik.jpg';
 import VigenchatImage from './foto/vigenchat.png';
 import faceImage from './foto/face.jpg';
-import samueelImage from './foto/samueel.png';
+import samuel1Image from './foto/samueel.JPG';
 import sertifikatImage from './foto/sertifikat.jpg';
 import sertifikat1Image from './foto/sertifikat1.jpg';
 import sertifikat2Image from './foto/sertifikat2.jpg';
@@ -107,7 +107,7 @@ function App() {
       <main>
         <section id="home" className="hero">
           <div className="hero-content">
-          <img src={samueelImage} alt="Samuel Ebit Nego" style={{ width: '200px', height: 'auto' }} />
+          <img src={samuel1Image} alt="Samuel Ebit Nego" style={{ width: '200px', height: 'auto' }} />
             <h1>Samuel Ebit Nego</h1>
             <h2>Junior Web Developer</h2>
             <a href="#contact" className="cta-button">Contact</a>

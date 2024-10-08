@@ -110,7 +110,7 @@ function App() {
           <img src={samuel1Image} alt="Samuel Ebit Nego" style={{ width: '200px', height: 'auto' }} />
             <h1>Samuel Ebit Nego</h1>
             <h2>Junior Web Developer</h2>
-            <a href="#contact" className="cta-button">Contact</a>
+            <a href="https://drive.google.com/file/d/1zSvw-y_sM7sqem_p8vZFPw_IfmeOPnbs/view?usp=sharing" className="cta-button">My CV</a>
           </div>
         </section>
 

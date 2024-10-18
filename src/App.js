@@ -24,6 +24,8 @@ import jsImage from './foto/js.JPG';
 import aiImage from './foto/ai.JPG';
 import note_app_lvl1Image from './foto/note_app_lvl1.JPG';
 import jssImage from './foto/jss.JPG';
+import backendImage './foto/backend.JPG';
+import reactImage './foto/react.JPG';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate.git', source: 'https://qrcodegenerate-three.vercel.app/' },
@@ -52,6 +54,8 @@ const certificate = [
   { id: 13, title: 'JavaScript Program Basic', foto: jsImage, source: 'https://drive.google.com/file/d/1d0scf_zo-EJZcnxZJJziGoomT7jd2kSs/view?usp=sharing' },
   { id: 14, title: 'Belajar Dasar AI', foto: aiImage, source: 'https://drive.google.com/file/d/1eOxd42wMdO36PWgh-xgKbS3Qi8eklUu1/view?usp=sharing' },
   { id: 15, title: 'JavaScript', foto: jssImage, source: 'https://drive.google.com/file/d/1hPqIaHbAhdJINI8WZ5yhCE8u3zlRF0Qn/view?usp=sharing' },
+  { id: 17, title: 'Belajar Back-End Pemula dengan JavaScript', foto: backendImage, source: 'https://drive.google.com/file/d/1n755kn5O33mHHpVgTsMi4AQYkObb2CQe/view?usp=sharing' },
+  { id: 18, title: 'Belajar Membuat Aplikasi Web dengan React', foto: reactImage, source: 'https://drive.google.com/file/d/1K34Eep_n8xQbRC0zHovc95fUK2IR7uj1/view?usp=sharing' },
 ];
 
 const handleSubmit = (e) => {

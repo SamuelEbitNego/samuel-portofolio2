@@ -37,7 +37,7 @@ const projects = [
   { id: 6, title: 'Face Detection Simple', description: 'Face detection using simple algorithms', foto: faceImage, sourceCode: 'https://github.com/SamuelEbitNego/facedetection-simple' },
   { id: 7, title: 'Weather App', description: 'Using framework React', foto: weatherImage, sourceCode: 'https://github.com/SamuelEbitNego/weather-app.git', source: 'https://weather-app-silk-seven-93.vercel.app' },
   { id: 8, title: 'Note-App Lvl 1', description: 'Using framework React', foto: note_app_lvl1Image, sourceCode: 'https://github.com/SamuelEbitNego/app-note.git', source: 'https://app-note-psi.vercel.app/' },
-  { id: 9, title: 'Compony Profile Naposo HKBP Pondok Kelapa', description: 'HTML, CSS, & JavaScript', foto: naposoImage, source: 'https://app-note-psi.vercel.app/' },
+  { id: 9, title: 'Compony Profile Naposo HKBP Pondok Kelapa', description: 'HTML, CSS, & JavaScript', foto: naposoImage, sourceCode: '#', source: 'https://rnhkbppondokkelapa.vercel.app/' },
 ];
 
 const certificate = [

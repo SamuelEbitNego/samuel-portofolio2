@@ -26,7 +26,7 @@ import note_app_lvl1Image from './foto/note_app_lvl1.JPG';
 import jssImage from './foto/jss.JPG';
 import backendImage from './foto/backend.JPG';
 import reactImage from './foto/react.JPG';
-import naposoImage from './foto/naposo.JPG;
+import naposoImage from './foto/naposoJPG';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate.git', source: 'https://qrcodegenerate-three.vercel.app/' },

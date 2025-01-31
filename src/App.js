@@ -27,6 +27,7 @@ import jssImage from './foto/jss.JPG';
 import backendImage from './foto/backend.JPG';
 import reactImage from './foto/react.JPG';
 import naposoImage from './foto/naposo.JPG';
+import simaskuImage from './foto/simasku.png';
 
 const projects = [
   { id: 1, title: 'QR Code Generate', description: 'This program Text To QR Code With Generate', foto: qrcodeImage, sourceCode: 'https://github.com/SamuelEbitNego/qrcodegenerate.git', source: 'https://qrcodegenerate-three.vercel.app/' },
@@ -38,8 +39,8 @@ const projects = [
   { id: 7, title: 'Weather App', description: 'Using framework React', foto: weatherImage, sourceCode: 'https://github.com/SamuelEbitNego/weather-app.git', source: 'https://weather-app-silk-seven-93.vercel.app' },
   { id: 8, title: 'Note-App Lvl 1', description: 'Using framework React', foto: note_app_lvl1Image, sourceCode: 'https://github.com/SamuelEbitNego/app-note.git', source: 'https://app-note-psi.vercel.app/' },
   { id: 9, title: 'Compony Profile Naposo HKBP Pondok Kelapa', description: 'HTML, CSS, & JavaScript', foto: naposoImage, source: 'https://rnhkbppondokkelapa.vercel.app/' },
+  { id: 10, title: 'List Arsip Surat Suku Dinas Kominfotik Jakarta Timur', description: 'SB2-Admin Bootstrap & Laravel', foto: simaskuImage, source: '#/'},
 ];
-
 const certificate = [
   { id: 1, title: 'HTML Course', foto: sertifikatImage, source: 'https://drive.google.com/file/d/19MR-dAmbzF18eieAhLwvo3vTXEpyf4W1/view?usp=sharing' },
   { id: 2, title: 'Web Development Fundamentals Course', foto: sertifikat1Image, source: 'https://drive.google.com/file/d/1M0x3uu6LzBOyErTB0F0X6WSLH3UfVkbo/view?usp=sharing' },
